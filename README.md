@@ -1,2 +1,0 @@
-# MyProjects
-work on deveops
